@@ -8,6 +8,11 @@ The project combines **Excel, MySQL/SQL, and Power BI** to analyze ride volume, 
 B.Tech — Computer Science
 
 ---
+## 🎥 Dashboard Demo
+
+https://github.com/user-attachments/assets/10702493-0cce-4e39-83f4-f462d10010f3
+
+---
 
 ## 🧰 Tools & Technologies
 
@@ -66,12 +71,6 @@ The dashboard is organized around:
 - **Ratings** — driver/customer rating analysis
 
 The dashboard is designed to turn raw booking records into operational and business insights.
-
----
-
-## 🎥 Dashboard Demo
-
-The repository includes:
 
 ---
 
