@@ -71,30 +71,14 @@ The dashboard is designed to turn raw booking records into operational and busin
 
 ---
 
-## 📑 Project Presentation
-
-`media/OLA_Data_Analytics_Project_Presentation.pptx`
-
-The presentation summarizes:
-
-- Project objective
-- Dataset
-- Technology stack
-- SQL analysis
-- Power BI dashboard
-- Key findings
-- Portfolio deliverables
-
----
-
 ## ▶️ How to Use
 
 ### 1. Excel
 Open:
 
-```text
+
 [bookings.xlsx](https://github.com/user-attachments/files/32450361/bookings.xlsx)
-```
+
 
 ### 2. MySQL
 Create the database and import the dataset into a table named `bookings`.
@@ -107,15 +91,15 @@ USE ola;
 
 Open and execute:
 
-```text
+
 [ola SQL.sql](https://github.com/user-attachments/files/32450837/ola.SQL.sql)
-```
+
 
 ### 3. Power BI
 Open:
 
 ```text
-powerbi/OLA_Data_Analytics.pbix
+OLA.pbix
 ```
 
 If Power BI requests a source refresh, reconnect the dataset according to your local file/database setup.
