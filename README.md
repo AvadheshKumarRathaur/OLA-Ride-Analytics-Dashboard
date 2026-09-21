@@ -51,13 +51,12 @@ The SQL analysis covers 10 business questions:
 9. Calculate total booking value of successful rides
 10. List incomplete rides with their reasons
 
-This is the SQL analysis file:
+This is the SQL analysis file 📑:
 [ola SQL.sql](https://github.com/user-attachments/files/32450837/ola.SQL.sql)
 ---
 
 ## 📈 Power BI Dashboard
 
-File: `powerbi/OLA_Data_Analytics.pbix`
 
 The dashboard is organized around:
 
@@ -70,6 +69,24 @@ The dashboard is organized around:
 The dashboard is designed to turn raw booking records into operational and business insights.
 
 ---
+
+
+## 📑Powerpoint Slides that i used
+
+Slide 1 :
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/75386503-f0bd-4951-b440-d8fd3f17f187" />
+
+Slide 2 :
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/18ee0f57-c318-458b-944a-e901ffb7f9dc" />
+
+Slide 3:
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/4b92bfe0-1732-44bf-8795-bfcb0522a013" />
+
+Slide 4:
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c5e3d5a3-c1f0-4473-899c-aa4f59f3f44e" />
+
+Slide 5:
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/1eb01a43-c3a1-4ce4-a268-c44e1bf97689" />
 
 ## ▶️ How to Use
 
