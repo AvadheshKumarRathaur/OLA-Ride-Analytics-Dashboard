@@ -56,6 +56,8 @@ The SQL analysis covers 10 business questions:
 9. Calculate total booking value of successful rides
 10. List incomplete rides with their reasons
 
+Below is the SQL analysis file:
+[ola analysis SQL.sql](https://github.com/user-attachments/files/32450195/ola.analysis.SQL.sql)
 ---
 
 ## 📈 Power BI Dashboard
