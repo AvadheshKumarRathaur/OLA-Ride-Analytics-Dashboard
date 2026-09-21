@@ -54,8 +54,12 @@ The SQL analysis covers 10 business questions:
 This is the SQL analysis file 📑:
 [ola SQL.sql](https://github.com/user-attachments/files/32450837/ola.SQL.sql)
 
-🎥 The OLA sql analysis demo video :
+---
+
+## 🎥 The OLA sql analysis demo video :
+
 https://github.com/user-attachments/assets/c92e4822-2c48-4560-bb4b-cbf5352518be
+
 ---
 
 ## 📈 Power BI Dashboard
