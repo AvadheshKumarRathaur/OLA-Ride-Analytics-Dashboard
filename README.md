@@ -29,15 +29,10 @@ Verified dataset summary:
 
 - **103,024 booking records**
 - **20 columns**
-- **94,544 unique customers**
 - **7 vehicle types**
 - Date range: **1 July 2024 – 31 July 2024**
-- Successful bookings: **63,967**
-- Successful booking rate: **62.09%**
-- Total booking value from successful rides: **₹35,080,467**
-- Average ride distance: **14.19**
 
-See `docs/data_dictionary.csv` for the complete column reference.
+See [bookings.xlsx](https://github.com/user-attachments/files/32450361/bookings.xlsx) for the complete column reference.
 
 ---
 
@@ -56,8 +51,8 @@ The SQL analysis covers 10 business questions:
 9. Calculate total booking value of successful rides
 10. List incomplete rides with their reasons
 
-Below is the SQL analysis file:
-[ola analysis SQL.sql](https://github.com/user-attachments/files/32450195/ola.analysis.SQL.sql)
+This is the SQL analysis file:
+[ola SQL.sql](https://github.com/user-attachments/files/32450837/ola.SQL.sql)
 ---
 
 ## 📈 Power BI Dashboard
@@ -98,7 +93,7 @@ The presentation summarizes:
 Open:
 
 ```text
-data/Bookings.xlsx
+[bookings.xlsx](https://github.com/user-attachments/files/32450361/bookings.xlsx)
 ```
 
 ### 2. MySQL
@@ -113,7 +108,7 @@ USE ola;
 Open and execute:
 
 ```text
-sql/ola_analysis.sql
+[ola SQL.sql](https://github.com/user-attachments/files/32450837/ola.SQL.sql)
 ```
 
 ### 3. Power BI
@@ -134,24 +129,6 @@ If Power BI requests a source refresh, reconnect the dataset according to your l
 - Analyzed **103,024 OLA ride-booking records** using Excel and MySQL to study booking trends, cancellations, revenue, ride distance, and ratings.
 - Developed SQL views and queries for successful bookings, customer/driver cancellations, top customers, UPI payments, vehicle performance, and incomplete rides.
 - Built an interactive Power BI dashboard covering ride volume, booking status, vehicle type, revenue, cancellations, and customer/driver ratings.
-
----
-
-## 📁 Portfolio Deliverables
-
-- [x] Excel source dataset
-- [x] Power BI dashboard
-- [x] SQL analysis queries
-- [x] Data dictionary
-- [x] Dashboard demo video
-- [x] Project presentation
-- [x] GitHub-ready README
-
----
-
-## ⚠️ Note
-
-This repository is intended as a portfolio/learning project. Before publishing publicly, make sure the source dataset is permitted for redistribution and does not contain confidential or personally identifiable information.
 
 ---
 
