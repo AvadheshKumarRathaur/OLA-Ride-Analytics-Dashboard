@@ -74,7 +74,7 @@ The dashboard is designed to turn raw booking records into operational and busin
 ## 📑Powerpoint Slides that i used
 
 Slide 1 :
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/75386503-f0bd-4951-b440-d8fd3f17f187" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/1eb01a43-c3a1-4ce4-a268-c44e1bf97689" />
 
 Slide 2 :
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/18ee0f57-c318-458b-944a-e901ffb7f9dc" />
@@ -86,7 +86,8 @@ Slide 4:
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c5e3d5a3-c1f0-4473-899c-aa4f59f3f44e" />
 
 Slide 5:
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/1eb01a43-c3a1-4ce4-a268-c44e1bf97689" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/75386503-f0bd-4951-b440-d8fd3f17f187" />
+
 
 ## ▶️ How to Use
 
